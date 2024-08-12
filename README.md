@@ -13,7 +13,7 @@ This repository contains a simple, customizable neural network framework built f
   - [Evaluating the Model](#evaluating-the-model)
   - [Making Predictions](#making-predictions)
   - [Saving and Loading Models](#saving-and-loading-models)
-- [Link to kaggle notebook](#https://www.kaggle.com/code/avidgamer6661/submission)
+- [Link to kaggle notebook](https://www.kaggle.com/code/avidgamer6661/submission)
 
 ## Usage
 
