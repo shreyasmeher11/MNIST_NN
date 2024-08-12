@@ -13,6 +13,7 @@ This repository contains a simple, customizable neural network framework built f
   - [Evaluating the Model](#evaluating-the-model)
   - [Making Predictions](#making-predictions)
   - [Saving and Loading Models](#saving-and-loading-models)
+- [Link to kaggle notebook](#https://www.kaggle.com/code/avidgamer6661/submission)
 
 ## Usage
 
@@ -43,10 +44,6 @@ This repository contains a simple, customizable neural network framework built f
 - Save a trained model to a file for future use.
 - Load a previously saved model to continue training or make predictions.
 
-### Creating a Kaggle Submission
-
-- Preprocess the `test.csv` file and predict the labels for the test data using the model.
-- Format the predictions into a CSV file with the required `ImageId` and `Label` columns for submission to Kaggle.
 
 
 
